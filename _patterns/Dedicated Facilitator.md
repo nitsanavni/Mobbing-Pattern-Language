@@ -5,6 +5,8 @@ layout: default
 
 # Context
 
+There are enough people to justify dedicating one of them solely to facilitation.
+
 # Purpose
 
 Offload the "how" of mobbing, allow the team to focus on the work.
